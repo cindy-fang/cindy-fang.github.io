@@ -104,7 +104,7 @@ ul.topnav li {float: none;}
     margin-left: 0px;
     }
 }
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 400px) {
     h1 {
     margin-left: 0px;
     font-size: 3.5vw;
@@ -114,7 +114,7 @@ ul.topnav li {float: none;}
     }
     a{
     padding-left: 16px;
-    padding-right: 50px;
+    padding-right: 40px;
     margin-left: 0px;
     }
 }
