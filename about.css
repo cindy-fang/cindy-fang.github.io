@@ -278,50 +278,6 @@ h5{
 img{
     width:70vw;height:70vw;
 }
-@media screen and (max-width: 300px) {
-    ul.topnav li.right, 
-    ul.topnav li {float: none;}
-
-    p {
-        font-size: 3vw;
-        margin-right: 0px;
-        margin-left: 0px;
-    
-    }
-    h1{
-        font-size: 6vw;
-        margin-left: 0px;
-    
-    }
-    h2{
-        font-size: 5vw;
-        margin-left: 0px;
-    
-    }
-    h3{
-        font-size: 4vw;
-        margin-left: 0px;
-    
-    }
-    h4{
-        font-size: 5vw;
-        margin-left: 0px;
-    
-    }
-    h5{
-        font-size: 4vw;
-        margin-left: 0px;
-    
-    }
-    img{
-        width:45vw;height:45vw;
-    }
-    .right {
-        float: right;
-        padding: 0 10px 0 0;
-        width: 30vw;height:36vw;
-    }
-}
 }
 
 
