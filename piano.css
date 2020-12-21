@@ -169,5 +169,29 @@ ul.dropdown li.right {float: right;}
             width:25vw;height:18.5vw;
         }
     }
+@media screen and (max-width: 400px) {
+    ul.dropdown li.right, 
+    ul.dropdown li {float: none;}
+        h1 {
+        margin-left: 0px;
+        font-size: 3vw;
+        }
+        p {
+        margin-left: 0px;
+        font-size: 2.5vw;
+        }
+        p1 {
+        margin-left: 0px;
+        font-size: 1.4vw;
+        }
+        a {
+        margin-left: 0px;
+        padding-left: 0px;
+        }
+        img {
+        padding-left: 3.5vw;
+        width:25vw;height:18.5vw;
+        }
+    }
 
 
