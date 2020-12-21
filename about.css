@@ -58,6 +58,14 @@ p {
     margin-left: 150px;
 
 }
+p1 {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-size: 0.9vw;
+    padding: 0 16px;
+    margin-right: 500px;
+    margin-left: 150px;
+}
 
 a {
     padding: 0px;
@@ -104,6 +112,11 @@ ul.topnav li.right {float: right;}
         margin-right: 400px;
         margin-left: 100px;
     }
+    p1 {
+        font-size: 1.1vw;
+        margin-right: 400px;
+        margin-left: 100px;
+    }
     h1{
         font-size: 4vw;
         margin-left: 100px;
@@ -146,6 +159,11 @@ ul.topnav li.right {float: right;}
         margin-right: 350px;
         margin-left: 50px;
     }
+    p1 {
+        font-size: 1.4vw;
+        margin-right: 350px;
+        margin-left: 50px;
+    }
     h1{
         font-size: 4vw;
         margin-left: 50px;
@@ -185,6 +203,11 @@ ul.topnav li.right {float: right;}
 @media screen and (max-width: 900px){
     p {
         font-size: 2.5vw;
+        margin-right: 0px;
+        margin-left: 40px;
+    }
+    p1 {
+        font-size: 1.9vw;
         margin-right: 0px;
         margin-left: 40px;
     }
@@ -238,6 +261,12 @@ ul.topnav li.right {float: right;}
 
         p {
             font-size: 3vw;
+            margin-right: 0px;
+            margin-left: 0px;
+
+        }
+        p1 {
+            font-size: 2.3vw;
             margin-right: 0px;
             margin-left: 0px;
 
