@@ -170,8 +170,7 @@ ul.dropdown li.right {float: right;}
         }
     }
 @media screen and (max-width: 400px) {
-    ul.dropdown li.right, 
-    ul.dropdown li {float: none;}
+
         h1 {
         margin-left: 0px;
         font-size: 2vw;
