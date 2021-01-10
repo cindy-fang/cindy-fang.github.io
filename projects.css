@@ -175,28 +175,28 @@ ul.topnav li.right {float: right;}
     ul.topnav li.right, 
     ul.topnav li {float: none;}
         p {
-            font-size: 3.5vw;
+            font-size: 4.5vw;
             margin-right: 0px;
             margin-left: 0px;
 
         }
         h1{
-            font-size: 5.5vw;
+            font-size: 7vw;
             margin-left: 0px;
 
         }
         h2{
-            font-size: 4vw;
-            margin-left: 0px;
-
-        }
-        h3{
             font-size: 5.5vw;
             margin-left: 0px;
 
         }
+        h3{
+            font-size: 7vw;
+            margin-left: 0px;
+
+        }
         h4{
-            font-size: 4vw;
+            font-size: 5.5vw;
             margin-left: 0px;
 
         }
@@ -215,22 +215,22 @@ ul.topnav li.right {float: right;}
     
     }
     h1{
-        font-size: 5vw;
+        font-size: 5.5vw;
         margin-left: 0px;
     
     }
     h2{
-        font-size: 4vw;
+        font-size: 4.5vw;
         margin-left: 0px;
     
     }
     h3{
-        font-size: 5vw;
+        font-size: 5.5vw;
         margin-left: 0px;
     
     }
     h4{
-        font-size: 43.5w;
+        font-size: 4.5vw;
         margin-left: 0px;
     
     }
