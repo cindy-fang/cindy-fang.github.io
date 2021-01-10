@@ -209,23 +209,23 @@ ul.topnav li.right {float: right;}
 @media screen and (max-width: 300px) {
     
     p {
-        font-size: 3vw;
+        font-size: 4vw;
         margin-right: 0px;
         margin-left: 0px;
     
     }
     h1{
-        font-size: 4vw;
+        font-size: 5vw;
         margin-left: 0px;
     
     }
     h2{
-        font-size: 3.5vw;
+        font-size: 4vw;
         margin-left: 0px;
     
     }
     h3{
-        font-size: 4vw;
+        font-size: 5vw;
         margin-left: 0px;
     
     }
